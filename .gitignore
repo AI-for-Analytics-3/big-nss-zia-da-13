@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large data files (excluded from git; regenerate via scripts/ or share separately)
+/data/
